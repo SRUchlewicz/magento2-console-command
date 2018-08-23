@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category    Ruchlewicz
+ * @package     Ruchlewicz_ConsoleCommand
+ * @author      Sebastian Ruchlewicz <sebastian.ruchlewicz@gmail.com>
+ * @copyright   Copyright (c) Sebastian Ruchlewicz (https://ruchlewicz.net/)
+ * @license     https://github.com/openemr/openemr/blob/master/LICENSE GNU General Public License 3
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Ruchlewicz_ConsoleCommand" setup_version="1.0.0">
+    </module>
+</config>
