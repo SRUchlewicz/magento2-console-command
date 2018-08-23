@@ -4,7 +4,7 @@ Magento2 sample console command for getting product info
 ## via composer
 Run the following command in Magento 2 root folder:
 ```
-composer require ruchlewicz/magento2-sample
+composer require ruchlewicz/magento2-console-command
 php bin/magento setup:upgrade
 ```
 ## manual
